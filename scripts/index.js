@@ -1,4 +1,4 @@
-const gifLength = 80
+const gifLength = 120
 
 
 var capturer = new CCapture( {
