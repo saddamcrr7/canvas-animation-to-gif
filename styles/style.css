@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+a {
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: 700;
+    background-color: rgba(254, 0, 131, 0.74);
+}
